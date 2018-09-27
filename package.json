@@ -1,7 +1,22 @@
 {
   "name": "@aplaline/vue-cli-plugin-disable-hashed-filenames",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Matthias Hryniszak <padcom@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "vue",
+    "cli"
+  ],
+  "homepage": "https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/cli-plugin-eslint#readme",
+  "bugs": {
+    "url": "https://github.com/aplaline/vue-cli-plugin-disable-hashed-filenames/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/aplaline/vue-cli-plugin-disable-hashed-filenames"
+  }
 }
