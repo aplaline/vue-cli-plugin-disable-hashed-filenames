@@ -1,0 +1,7 @@
+{
+  "name": "@padcom/vue-cli-plugin-disable-hashed-filenames",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "ISC"
+}
